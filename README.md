@@ -1,3 +1,6 @@
+#if you need the all , please email me 
+
+
 # school_ude2
 
 This template should help get you started developing with Vue 3 in Vite.
